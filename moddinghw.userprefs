@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Platformer.cs">
+    <Files>
+      <File FileName="../gmod5/Assets/Brick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ClickToMove.cs" Line="10" Column="35" />
+      <File FileName="Assets/Scripts/NPCBot.cs" Line="36" Column="4" />
+      <File FileName="Assets/Scripts/Platformer.cs" Line="7" Column="18" />
+      <File FileName="../midtermgame/Assets/scripts/movearound.cs" Line="19" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
